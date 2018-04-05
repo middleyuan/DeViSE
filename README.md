@@ -1,4 +1,4 @@
-# DeViSE
+# DeViSE (use residual net as pretrained visual model)
 In this project we go through in detail how we put Deep
 Visual-Semantic Embedding Model into practice, and the
 ideas we pop up to improve the model.
