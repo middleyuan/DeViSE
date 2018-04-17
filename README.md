@@ -7,7 +7,7 @@ ideas we pop up to improve the model.
 Cifar 100 is a 100 classes image datasets containing
 32x32 pixels for each image.
 Link :
-https://www.cs.toronto.edu/ kriz/cifar-100-python.tar.gz
+https://www.cs.toronto.edu/kriz/cifar-100-python.tar.gz
 
 # How to import data
 After import tensorflow, one can include data through comment
