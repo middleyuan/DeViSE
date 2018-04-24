@@ -3,6 +3,8 @@ In this project we go through in detail how we put Deep
 Visual-Semantic Embedding Model into practice, and the
 ideas we pop up to improve the model.
 
+Related paper: http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf
+
 # Dataset for visual model pre-training
 Cifar 100 is a 100 classes image datasets containing
 32x32 pixels for each image.
