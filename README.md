@@ -14,8 +14,9 @@ https://www.cs.toronto.edu/kriz/cifar-100-python.tar.gz
 # How to import data
 After import tensorflow, one can include data through comment
 below.
-
-tf.keras.datasets.cifar100.load_data
+> code:
+>
+>       tf.keras.datasets.cifar100.load_data
 
 # NETWORK STRUCTURE
 In DeViSE paper mentions that one can retrieve pre-train
