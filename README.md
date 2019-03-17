@@ -18,7 +18,7 @@ below.
 >
 >       tf.keras.datasets.cifar100.load_data
 
-# NETWORK STRUCTURE
+# Network structure
 In DeViSE paper mentions that one can retrieve pre-train
 visual model’s tensors for each image from the layer before
 softmax layer which is global max pooling layer. As previous
@@ -37,7 +37,7 @@ tried getting tensors from the layer before activation layer
 which is batch normalization layer, but the accuracy drop
 to roughly 32 percents.
 
-# TECHNICAL REPORT
+# Technical report
 Link :
 https://drive.google.com/drive/u/0/folders/1OKjYHTPiC3MdFcATnZzbHZ3CMRaib1ES
 
