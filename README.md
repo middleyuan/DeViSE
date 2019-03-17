@@ -37,4 +37,8 @@ tried getting tensors from the layer before activation layer
 which is batch normalization layer, but the accuracy drop
 to roughly 32 percents.
 
+# TECHNICAL REPORT
+Link :
+https://drive.google.com/drive/u/0/folders/1OKjYHTPiC3MdFcATnZzbHZ3CMRaib1ES
+
 
